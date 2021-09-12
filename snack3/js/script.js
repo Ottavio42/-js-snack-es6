@@ -17,6 +17,6 @@ let max = 9;
 
 let xArray = CutArray(num, min, max);
 
-console.log(xArray)
+console.log(xArray);
 
 
